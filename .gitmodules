@@ -37,3 +37,9 @@
 [submodule "/Users/yangzhao/.vim/pack/JoePlugin/start/Ycm"]
 	path = /Users/yangzhao/.vim/pack/JoePlugin/start/Ycm
 	url = https://github.com/ycm-core/YouCompleteMe.git
+[submodule "/Users/yangzhao/.vim/pack/JoePlugin/start/indentLine"]
+	path = /Users/yangzhao/.vim/pack/JoePlugin/start/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "/Users/yangzhao/.vim/tmp"]
+	path = /Users/yangzhao/.vim/tmp
+	url = https://github.com/octol/vim-cpp-enhanced-highlight.git
