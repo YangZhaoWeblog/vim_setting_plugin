@@ -42,3 +42,5 @@ https://blog.hulifa.cn/2019-10-20-Vim-8%E5%86%85%E7%BD%AE%E5%8C%85%E7%AE%A1%E7%9
  1. 安装支持 python3 的 vim， 通过 vim --version | grep python 来查看是否支持
  2. 进入 ycm 官方页面进行安装教程
  3. 在 .vimrc 中配置代码
+ 详情阅读:
+ *https://github.com/ycm-core/YouCompleteMe*
