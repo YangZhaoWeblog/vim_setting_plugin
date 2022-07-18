@@ -1,0 +1,39 @@
+[submodule "pack/JoePlugin/start/rainbow"]
+	path = pack/JoePlugin/start/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+[submodule "pack/JoePlugin/start/markdown"]
+	path = pack/JoePlugin/start/markdown
+	url = https://github.com/instant-markdown/vim-instant-markdown.git
+[submodule "pack/JoePlugin/start/syntastic"]
+	path = pack/JoePlugin/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "pack/JoePlugin/start/nerdtree"]
+	path = pack/JoePlugin/start/nerdtree
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "pack/JoePlugin/start/vim-airline"]
+	path = pack/JoePlugin/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/JoePlugin/start/CompleteParameter"]
+	path = pack/JoePlugin/start/CompleteParameter
+	url = https://github.com/tenfyzhong/CompleteParameter.vim.git
+[submodule "pack/JoePlugin/start/pack/JoePlugin/start/NERDTree"]
+	path = pack/JoePlugin/start/pack/JoePlugin/start/NERDTree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/JoePlugin/start/NERDTree"]
+	path = pack/JoePlugin/start/NERDTree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "colors/molokai"]
+	path = colors/molokai
+	url = https://github.com/tomasr/molokai.git
+[submodule "pack/JoePlugin/start/LeaderF"]
+	path = pack/JoePlugin/start/LeaderF
+	url = https://github.com/Yggdroot/LeaderF.git
+[submodule "pack/JoePlugin/start/ale"]
+	path = pack/JoePlugin/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "/Users/yangzhao/.vim/pack/JoePlugin/start/nerdtree"]
+	path = /Users/yangzhao/.vim/pack/JoePlugin/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "/Users/yangzhao/.vim/pack/JoePlugin/start/Ycm"]
+	path = /Users/yangzhao/.vim/pack/JoePlugin/start/Ycm
+	url = https://github.com/ycm-core/YouCompleteMe.git
